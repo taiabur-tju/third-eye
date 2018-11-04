@@ -1,0 +1,7 @@
+<xml xmlns="http://www.w3.org/1999/xhtml">
+  <block type="component_event" id="]Fe?sG?/Las`FWfy+rX3" x="-483" y="-207">
+    <mutation component_type="Clock" instance_name="Clock1" event_name="Timer"></mutation>
+    <field name="COMPONENT_SELECTOR">Clock1</field>
+  </block>
+  <yacodeblocks ya-version="172" language-version="22"></yacodeblocks>
+</xml>
