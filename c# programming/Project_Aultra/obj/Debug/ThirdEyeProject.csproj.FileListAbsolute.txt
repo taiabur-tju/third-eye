@@ -1,0 +1,15 @@
+C:\Users\Mansoor\Documents\Visual Studio 2013\Projects\Project_Aultra\Project_Aultra\bin\Debug\Project_Aultra.exe.config
+C:\Users\Mansoor\Documents\Visual Studio 2013\Projects\Project_Aultra\Project_Aultra\bin\Debug\Project_Aultra.exe
+C:\Users\Mansoor\Documents\Visual Studio 2013\Projects\Project_Aultra\Project_Aultra\bin\Debug\Project_Aultra.pdb
+C:\Users\Mansoor\Documents\Visual Studio 2013\Projects\Project_Aultra\Project_Aultra\obj\Debug\ThirdEyeProject.csprojResolveAssemblyReference.cache
+C:\Users\Mansoor\Documents\Visual Studio 2013\Projects\Project_Aultra\Project_Aultra\obj\Debug\Project_Aultra.Form1.resources
+C:\Users\Mansoor\Documents\Visual Studio 2013\Projects\Project_Aultra\Project_Aultra\obj\Debug\Project_Aultra.Properties.Resources.resources
+C:\Users\Mansoor\Documents\Visual Studio 2013\Projects\Project_Aultra\Project_Aultra\obj\Debug\ThirdEyeProject.csproj.GenerateResource.Cache
+C:\Users\Mansoor\Documents\Visual Studio 2013\Projects\Project_Aultra\Project_Aultra\obj\Debug\Project_Aultra.exe
+C:\Users\Mansoor\Documents\Visual Studio 2013\Projects\Project_Aultra\Project_Aultra\obj\Debug\Project_Aultra.pdb
+C:\Users\Mansoor\Documents\Visual Studio 2013\Projects\ThirdEyeProject\Project_Aultra\bin\Debug\Project_Aultra.exe.config
+C:\Users\Mansoor\Documents\Visual Studio 2013\Projects\ThirdEyeProject\Project_Aultra\obj\Debug\Project_Aultra.exe
+C:\Users\Mansoor\Documents\Visual Studio 2013\Projects\ThirdEyeProject\Project_Aultra\obj\Debug\Project_Aultra.pdb
+E:\Tianjin Universit-Master SE\ThirdEyeProject\Project_Aultra\bin\Debug\Project_Aultra.exe.config
+E:\Tianjin Universit-Master SE\ThirdEyeProject\Project_Aultra\obj\Debug\Project_Aultra.exe
+E:\Tianjin Universit-Master SE\ThirdEyeProject\Project_Aultra\obj\Debug\Project_Aultra.pdb

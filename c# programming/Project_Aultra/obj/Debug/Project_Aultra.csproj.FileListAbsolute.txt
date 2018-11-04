@@ -1,0 +1,9 @@
+C:\Users\Mansoor\documents\visual studio 2013\Projects\Project_Aultra\Project_Aultra\bin\Debug\Project_Aultra.exe.config
+C:\Users\Mansoor\documents\visual studio 2013\Projects\Project_Aultra\Project_Aultra\bin\Debug\Project_Aultra.exe
+C:\Users\Mansoor\documents\visual studio 2013\Projects\Project_Aultra\Project_Aultra\bin\Debug\Project_Aultra.pdb
+C:\Users\Mansoor\documents\visual studio 2013\Projects\Project_Aultra\Project_Aultra\obj\Debug\Project_Aultra.Form1.resources
+C:\Users\Mansoor\documents\visual studio 2013\Projects\Project_Aultra\Project_Aultra\obj\Debug\Project_Aultra.Properties.Resources.resources
+C:\Users\Mansoor\documents\visual studio 2013\Projects\Project_Aultra\Project_Aultra\obj\Debug\Project_Aultra.csproj.GenerateResource.Cache
+C:\Users\Mansoor\documents\visual studio 2013\Projects\Project_Aultra\Project_Aultra\obj\Debug\Project_Aultra.exe
+C:\Users\Mansoor\documents\visual studio 2013\Projects\Project_Aultra\Project_Aultra\obj\Debug\Project_Aultra.pdb
+C:\Users\Mansoor\Documents\Visual Studio 2013\Projects\Project_Aultra\Project_Aultra\obj\Debug\Project_Aultra.csprojResolveAssemblyReference.cache
